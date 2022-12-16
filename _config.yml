@@ -4,6 +4,6 @@ description: A template website for ADA Leon
 show_downloads: True
 navigation:
   - title: example
-    url: /
+    url: example
   - title: TaLeCaYu
     url: TaLeCaYu
