@@ -3,7 +3,7 @@ title: ADA Template Website Leon
 description: A template website for ADA Leon
 show_downloads: True
 navigation:
-  - title: Home
+  - title: example
     url: /
   - title: TaLeCaYu
     url: TaLeCaYu
