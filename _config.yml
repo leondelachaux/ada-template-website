@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: ADA Template Website Leon
 description: A template website for ADA Leon
-show_downloads: True
+show_downloads: False
 navigation:
-  - title: example
-    url: example
+  - title: Home
+    url: /
   - title: TaLeCaYu
     url: TaLeCaYu
